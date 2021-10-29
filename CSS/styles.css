@@ -1,0 +1,35 @@
+#main-container {
+  margin: auto;
+  text-align: center;
+  padding: 30px;
+  color: #db0d0d;
+}
+input {
+  height: 25px;
+  width: 400px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #f9f8fc;
+  font-size: 20px;
+}
+#ball {
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  border-radius: 50%;
+  margin: auto;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+#button {
+  background-color: #db0d0d;
+  color: #ffffff;
+  width: 100px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}

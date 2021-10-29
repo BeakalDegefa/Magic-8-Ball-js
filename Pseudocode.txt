@@ -1,0 +1,17 @@
+i want to create a ball when it is clicked to give me an answer to my questions
+i want to have a box which contains everything div
+i want to have a circle (ball ) that holds the answers 
+i want a shake button 
+i want to put the random answers in array 
+i want to randomly generate answers to question 
+i want to display the answers 
+
+
+edge cases to consider 
+what if the user doesn't put anything on the input 
+    use if statement for this 
+
+
+
+
+google is the main source 
